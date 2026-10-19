@@ -5,7 +5,7 @@
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f6f1e9",
+  "background_color": "#efe9df",
   "theme_color": "#211c2e",
   "description": "تحويل المواقف المزعجة إلى كوميديا ساخرة — خصوصية محلية دون حساب",
   "icons": [
